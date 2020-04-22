@@ -1,6 +1,6 @@
 # Drug-Target Interaction Prediction - ConvDTI
 
-This Repo contains the implementation of the idea presented [here]("./SAMHAR DTI Presentation.pdf").
+This Repo contains the implementation of the idea presented [here](SAMHAR-DTI-Presentation.pdf).
 
 ## About
     
@@ -16,4 +16,4 @@ This Repo contains the implementation of the idea presented [here]("./SAMHAR DTI
 #### Surya Kant Sahu
     * Reinforcement Learning Enthusiast. Experienced in a diverse set of domains, ranging from Text to Audio, from Classification to Generation.
     * I play the Piano. A huge fan of Fredich Chopin.
-    * Contact: [Github](https://github.com/ojus1) [LinkedIn](https://www.linkedin.com/in/surya-kant-oju/)
+    * Contact: Github: <https://github.com/ojus1> LinkedIn: <https://www.linkedin.com/in/surya-kant-oju/>
