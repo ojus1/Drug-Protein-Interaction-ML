@@ -8,7 +8,11 @@ This Repo contains the implementation of the idea presented [here](SAMHAR-DTI-Pr
 
 ## Team - Superwise
 #### Ritul Patidar
-* TO DO
+* Deep Learning Enthusiast, AI blogger. Experienced in a Text and Image processing, famililar with classification and generation problems.
+* Contact: 
+    + [Github](https://github.com/p-rit)
+    + [LinkedIn](https://www.linkedin.com/in/ritul-patidar/)
+
 #### Shubham Agrawal
 * TO DO
 #### Ayushi Gupta
