@@ -14,7 +14,7 @@ This Repo contains the implementation of the idea presented [here](SAMHAR-DTI-Pr
     + [LinkedIn](https://www.linkedin.com/in/ritul-patidar/)
 
 #### Shubham Agrawal
-* Machine Learning engineer, Deep Learning Enthusiast. Have worked on real life projects in image and text processing.
+* Machine Learning engineer and a Deep Learning Enthusiast. Have worked on real life projects in image and text processing.
 * Contact: 
     + [Github](https://github.com/agrawals1)
     + [LinkedIn](https://www.linkedin.com/in/shubhamdineshagrawal/)
