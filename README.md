@@ -16,7 +16,10 @@ This Repo contains the implementation of the idea presented [here](SAMHAR-DTI-Pr
 #### Shubham Agrawal
 * TO DO
 #### Ayushi Gupta
-* TO DO
+* I love solving real world problems through programming be it through machine learning or a simple script.
+* Contact: 
+    + [Github](https://github.com/ayushi6560)
+    + [LinkedIn](https://www.linkedin.com/in/pyayushigupta/)
 #### Surya Kant Sahu
 * Reinforcement Learning Enthusiast. Experienced in a diverse set of domains, ranging from Text to Audio, from Classification to Generation.
 * I play the Piano. A huge fan of Frédéric Chopin.
