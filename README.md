@@ -15,7 +15,7 @@ This Repo contains the implementation of the idea presented [here](SAMHAR-DTI-Pr
 * TO DO
 #### Surya Kant Sahu
 * Reinforcement Learning Enthusiast. Experienced in a diverse set of domains, ranging from Text to Audio, from Classification to Generation.
-* I play the Piano. A huge fan of Fredich Chopin.
+* I play the Piano. A huge fan of Frédéric Chopin.
 * Contact: 
     + [Github](https://github.com/ojus1)
     + [LinkedIn](https://www.linkedin.com/in/surya-kant-oju/)
