@@ -14,14 +14,19 @@ This Repo contains the implementation of the idea presented [here](SAMHAR-DTI-Pr
     + [LinkedIn](https://www.linkedin.com/in/ritul-patidar/)
 
 #### Shubham Agrawal
-* TO DO
+* Machine Learning engineer and a Deep Learning Enthusiast. Have worked on real life projects in image and text processing. Have experience in chatbot developement as well.
+* Contact: 
+    + [Github](https://github.com/agrawals1)
+    + [LinkedIn](https://www.linkedin.com/in/shubhamdineshagrawal/)
+
 #### Ayushi Gupta
 * I love solving real world problems through programming be it through machine learning or a simple script.
 * Contact: 
     + [Github](https://github.com/ayushi6560)
     + [LinkedIn](https://www.linkedin.com/in/pyayushigupta/)
+
 #### Surya Kant Sahu
-* Reinforcement Learning Enthusiast. Experienced in a diverse set of domains, ranging from Text to Audio, from Classification to Generation.
+* Exploring the intersecion of Recommender Systems and Reinforcement Learning. Built Data Pipelines for multiple realtime Machine Learning applications. 
 * I play the Piano. A huge fan of Frédéric Chopin.
 * Contact: 
     + [Github](https://github.com/ojus1)
